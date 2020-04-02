@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parachutists Game</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<canvas id="canvas" tabindex='1'></canvas>
+
+<div id="background" class="toggle-group"></div>
+<div id="screen-div" class="toggle-group screen-div">
+    <div id="screen-div-text" class="toggle-group">Parachutists</div>
+    <div id="final-score" class="toggle-group"></div>
+    <div id="start-button" class="toggle-group">press to start</div>
+</div>
+<div id="score-wrapper" class="hidden-class">
+    <div id="score" class="toggle-group hidden-class">score: 0000</div>
+    <div id="lives" class="toggle-group hidden-class">lives: 3</div>
+</div>
+
+<script type="module" src="controller/Controller.js"></script>
+<script type="module" src="view/View.js"></script>
+<script type="module" src="Game.js"></script>
+
+</body>
+</html>
