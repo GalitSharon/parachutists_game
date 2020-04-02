@@ -20,8 +20,8 @@ export const PARACHUT_HEIGHT = 80;
 export const PARACHUTS_NUM = 20;
 export const PARACHUTS_SPEED = 1;
 
-export const PLANE_IMG = "../../resources/plane.png";
-export const BOAT_IMG = "../../resources/boat.png";
-export const PARACHUTIST_IMG = "../../resources/parachutist.png";
-export const CLOUDS_IMG = "../../resources/background.png";
-export const SEA_IMG = "../../resources/sea.png";
+export const PLANE_IMG = "resources/plane.png";
+export const BOAT_IMG = "resources/boat.png";
+export const PARACHUTIST_IMG = "resources/parachutist.png";
+export const CLOUDS_IMG = "resources/background.png";
+export const SEA_IMG = "resources/sea.png";

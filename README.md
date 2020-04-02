@@ -1,5 +1,6 @@
 Catch the parachutists that jump from the plane into your boat!
-Play it live here
+
+Play it [live here](https://galit67.github.io/parachutists_game/)
 
 # Structure
 
